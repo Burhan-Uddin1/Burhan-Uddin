@@ -87,6 +87,33 @@ These projects explore practical workflows such as records management, inventory
 - Database design and optimization
 - Building and integrating practical AI-powered applications
 
+## Portfolio Website
+
+The repository now includes the source files for a responsive personal portfolio:
+
+- `index.html` — page structure and portfolio content
+- `style.css` — responsive dark/light visual design
+- `script.js` — theme toggle, mobile navigation, project filters, search, and scroll effects
+
+### Website sections
+
+- Home and professional introduction
+- About and education
+- Technical skills and current learning areas
+- Searchable and filterable project showcase
+- Mathematics × AI section
+- Learning journey timeline
+- Technical lectures and knowledge hub
+- Contact links and social profiles
+
+### Run locally
+
+Open `index.html` in a modern browser. No build step is required.
+
+### Deploy
+
+The static website can be deployed through GitHub Pages or imported into Vercel. A public live website URL should be added here after deployment is configured and verified.
+
 ## Connect
 
 - **LinkedIn:** [Burhan Uddin](https://www.linkedin.com/in/burhan-uddin-1890b6407/)
