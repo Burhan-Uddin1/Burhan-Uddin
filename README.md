@@ -24,19 +24,35 @@ I’m passionate about mathematics, programming, artificial intelligence, and ex
 | Development | Backend fundamentals |
 | AI | AI tools and AI-assisted content creation |
 
-## Projects
+## Projects & Systems
 
-### AI SkillBridge — Intelligent Career & Skill Development Platform
-A team project focused on helping users explore career paths, identify skill gaps, and discover personalized learning recommendations.
+### Business, Management & Inventory Systems
 
-### School Management System
-A software project designed to support the organization and management of school-related information and administrative workflows.
+- **College Management System (CMS) v14**
+- **Hospital Management Information System (HIMS) v7**
+- **School Management System (SMS)** — PostgreSQL and SQLite
+- **Pharmacy Management System** — Sanwal Care Pharmacy
+- **Cosmetics Business Management System** — wholesale/distribution business
+- **Cash & Carry Inventory System**
+- **General Business Management System**
+- **Society Finance System** — HTML, Android APK, and 24/7 online access
+- **FMCG Inventory Intelligence Project**
 
-### Hospital Management System
-A software project focused on organizing hospital information and supporting everyday management workflows.
+### Websites & Applications
 
-### Zero and Cross — Tic-Tac-Toe Game
-A simple interactive implementation of the classic two-player strategy game, also known as Tic-Tac-Toe.
+- **AI Career Recommender**
+- **AI SkillBridge App v1.4** — Intelligent Career & Skill Development Platform
+- **Group Theory Explorer Website**
+- **Personal Portfolio Website**
+- **Portfolio Website**
+- **Zero Cross Game v2.1 Light** — Tic-Tac-Toe
+
+### Lectures & Educational Video Projects
+
+- **DBMS Difficult Topics** — 10-video series
+- **Technical Explainer Videos:** DSA Stack, Authentication vs. Authorization, Functions, Backend Development, REST APIs, Python + PostgreSQL, APIs, and Vector Databases
+- **Mathematics & AI Explainers:** Topology, Mathematics Behind ChatGPT, and Face Recognition
+- **Group Theory Video** and an **18-topic Algebra Series**
 
 ## Currently Learning
 
